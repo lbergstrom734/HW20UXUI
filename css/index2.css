@@ -1,0 +1,47 @@
+/* Text */
+h1, h2, h3 , h4, h5, h6 {
+  font-family: 'Noto', sans-serif;
+}
+p {
+  font-family: 'Noto', sans-serif;
+}
+/* Footer form */
+form {
+  width: 500px;
+  margin: 35px auto;
+  padding: 45px;
+  border: 1px solid #F2F2F2;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+.boxes {
+  vertical-align: middle;
+  margin: auto;
+  padding: 70px 0;
+}
+.centered-element {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.foot {
+  height: 50px;
+  background-color: black;
+  color: white;
+  vertical-align: middle;
+  position: relative;
+  height: 75px;
+  border: 2px solid #006100;
+  padding-left: 25px;
+  margin-top:  75px;
+  font-family: sans-serif;
+}
+.centered-element {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
